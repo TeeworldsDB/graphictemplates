@@ -3,6 +3,11 @@
     notes: https://www.youtube.com/watch?v=Lre53XdqsS4
     tags:
     sha1: ab0b206a40ca984937d5812135fd66005727ce95
+- grids/grid_skins_07.png
+    author: Sonix
+    notes:
+    tags:
+    sha1: 7015cde2f73d86976d5b91fff42a3e93770c0b2a
 - grids/grid_tileset.png
     author:
     notes:
