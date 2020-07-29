@@ -3,10 +3,10 @@
     notes: https://www.youtube.com/watch?v=Lre53XdqsS4
     tags:
     sha1: ab0b206a40ca984937d5812135fd66005727ce95
-- indecies.png
+- indices.png
     author: teeworlds editor
-    notes: overlay on entities to debug indecies
-    tags: entities, debug, tiles, mapitems
+    notes: overlay on entities to debug indices
+    tags: entities, debug, tiles, mapitems, index
     sha1: f94e5790f7bc7a6cb9923e4361d9cfdf6893f031
 - grids/grid_gameskin_06.png
     author:
