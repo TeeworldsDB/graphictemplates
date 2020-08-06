@@ -1,3 +1,8 @@
+- autumn_icon.xcf
+    author: ChillerDragon
+    notes: https://github.com/teeworlds/teeworlds/pull/2682
+    tags: themes, theme, icon
+    sha1: f20e5705c343fe052d89c86cb932f22695388268
 - default.svg
     author: Whis
     notes: https://www.youtube.com/watch?v=Lre53XdqsS4
